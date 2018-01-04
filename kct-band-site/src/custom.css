@@ -1,0 +1,42 @@
+.nav-link {
+
+}
+
+.band-art {
+  background-image: url("pictures/homepage.jpg");
+  min-height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-theme {
+  background-color: #0E4C5D;
+  color: #FFFFFF;
+}
+.nav-align {
+  display: flex;
+  justify-content: space-around;
+}
+.feature {
+  height: 500px;
+}
+
+.feature a {
+  color: #A4A4A5;
+}
+
+.home {
+  text-align: center;
+  font-family: Book Antiqua;
+  font-size: 24px;
+}
+
+.home h2 {
+  font-family: Papyrus;
+  font-size: 36px;
+}
+
+.about {
+  padding-top: 1.25rem;
+}
