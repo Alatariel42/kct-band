@@ -1,6 +1,6 @@
 <div class="bg-theme images">
   <div>
-    <ul style="padding-top:2rem;">
+    <ul>
       <li *ngFor="let pic of pics"
       [class.selected]="pic === selectedPic"
       (click)="onSelect(pic)">

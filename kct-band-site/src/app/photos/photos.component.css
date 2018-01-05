@@ -11,10 +11,14 @@
   width:min-content;
   margin-left:1rem;
   margin-right:1rem;
-  margin-top:2rem;
+  margin-top:1rem;
 }
 
 .caption {
   font-family: courier;
   max-height: 2rem;
+}
+
+.images {
+
 }

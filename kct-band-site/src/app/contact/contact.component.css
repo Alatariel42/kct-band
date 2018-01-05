@@ -5,8 +5,8 @@
 }
 
 .align {
-  padding-top: 1.5rem;
-  height: 30rem;
+  padding-top: 2rem;
+  display: flex;
 }
 
 .fb {
@@ -33,23 +33,39 @@
 
 }
 
-.social {
+.feature-right {
   float:right;
-  width:50%;
-  padding-left:4rem;
-  padding-right:4rem;
+  width:45%;
+  padding-left:3rem;
+  padding-right:3rem;
+  padding-bottom:5rem;
+  margin-right:3rem;
+  background-color:#F0F5F5;
+  box-shadow: 0 4px 6px rgba(0,0,0,.5);
+  padding-top: 1.25rem;
+  margin-bottom:3rem;
+  margin-left:1.5rem;
 }
 
-.upcoming {
+.feature-left {
   float:left;
-  width:50%;
-  padding-left:4rem;
-  padding-right:4rem;
+  width:45%;
+  margin-left:3rem;
+  padding-left:3rem;
+  padding-right:3rem;
+  padding-bottom:5rem;
+  background-color:#F0F5F5;
+  box-shadow: 0 4px 6px rgba(0,0,0,.5);
+  padding-top: 1.25rem;
+  margin-bottom:3rem;
+  margin-right:1.5rem;
 }
 
-.contact {
-  padding-top:1.5rem;
-  margin-right:5rem;
-  margin-left: 5rem;
-  height:14rem;
+.card {
+  margin-left:7rem;
+  margin-right:7rem;
+  margin-bottom:3rem;
+  padding-bottom:2rem;
+  background-color:#F0F5F5;
+  box-shadow: 0 4px 6px rgba(0,0,0,.5);
 }
