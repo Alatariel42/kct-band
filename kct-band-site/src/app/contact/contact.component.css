@@ -1,0 +1,55 @@
+
+.abt {
+  text-align: center;
+  font-size: 24px;
+}
+
+.align {
+  padding-top: 1.5rem;
+  height: 30rem;
+}
+
+.fb {
+
+}
+
+.ig {
+
+}
+
+.sc {
+
+}
+
+.scl {
+
+}
+
+.twitter {
+
+}
+
+.yt {
+
+}
+
+.social {
+  float:right;
+  width:50%;
+  padding-left:4rem;
+  padding-right:4rem;
+}
+
+.upcoming {
+  float:left;
+  width:50%;
+  padding-left:4rem;
+  padding-right:4rem;
+}
+
+.contact {
+  padding-top:1.5rem;
+  margin-right:5rem;
+  margin-left: 5rem;
+  height:14rem;
+}
