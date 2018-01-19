@@ -13,6 +13,7 @@ import { PhotosComponent } from './photos/photos.component';
 import { ShopComponent } from './shop/shop.component';
 import { ContactComponent } from './contact/contact.component';
 import { Ng4TwitterTimelineModule } from 'ng4-twitter-timeline/lib/index';
+import { CopyrightComponent } from './copyright/copyright.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { Ng4TwitterTimelineModule } from 'ng4-twitter-timeline/lib/index';
     PhotosComponent,
     ShopComponent,
     ContactComponent,
+    CopyrightComponent,
   ],
   imports: [
     BrowserModule,
