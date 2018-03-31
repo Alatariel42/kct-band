@@ -1,0 +1,25 @@
+.images ul {
+  list-style-type: none;
+}
+.pic-style {
+  padding-top:2rem;
+  padding-left:2.5rem;
+  padding-right:2.5rem;
+  padding-bottom:4rem;
+  float:left;
+  box-shadow: 0 4px 6px rgba(0,0,0,.3);
+  width:min-content;
+  margin-left:1rem;
+  margin-right:1rem;
+  margin-top:1rem;
+}
+
+.caption {
+  font-family: courier;
+  max-height: 2rem;
+}
+
+.images {
+  background-color: #F0F5F5;
+  color: #000000;
+}
